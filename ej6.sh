@@ -1,0 +1,2 @@
+echo  " -Deberíamos hacer que el valor de la variable INTERVAL sea más pequeño si queremos que el giro de la barra sea más rápido.
+-Cuando ponemos eco -el sistema interpreta las barras invertidas como si fuesen caracteres. "
